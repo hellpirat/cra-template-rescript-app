@@ -1,0 +1,34 @@
+{
+  "name": "rescript-cra-template",
+  "version": "0.0.1",
+  "author": {
+    "email": "hellpirat1@gmail.com",
+    "name": "Evgenii Maltsev"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "rescript",
+    "bucklescript",
+    "reason",
+    "reasonml"
+  ],
+  "description": "The base template for Create React App with rescript.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facebook/create-react-app.git",
+    "directory": "packages/cra-template"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

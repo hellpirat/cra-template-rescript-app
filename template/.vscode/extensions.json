@@ -1,0 +1,4 @@
+{
+  "recommendations": ["chenglou92.rescript-vscode", "jaredly.reason-vscode"],
+  "unwantedRecommendations": ["vscode.typescript-language-features"]
+}

@@ -1,0 +1,22 @@
+{
+  "package": {
+    "scripts": {
+      "re:build": "rescript",
+      "re:start": "rescript build -w"
+    },
+    "dependencies": {
+      "@rescript/react": "^0.10.3",
+      "@testing-library/jest-dom": "^5.11.4",
+      "@testing-library/react": "^11.1.0",
+      "@testing-library/user-event": "^12.1.10",
+      "web-vitals": "^1.0.1"
+    },
+    "devDependencies": {
+      "gentype": "^4.1.0",
+      "rescript": "^9.1.4"
+    },
+    "eslintConfig": {
+      "extends": ["react-app", "react-app/jest"]
+    }
+  }
+}

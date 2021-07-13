@@ -1,0 +1,17 @@
+{
+  "name": "template",
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "package-specs": {
+    "module": "es6",
+    "in-source": true
+  },
+  "suffix": ".bs.js",
+  "reason": { "react-jsx": 3 },
+  "bs-dependencies": ["@rescript/react"],
+  "warnings": {
+    "error": "+101"
+  }
+}
